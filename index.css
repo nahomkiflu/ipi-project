@@ -1,6 +1,6 @@
 body {
     font-family: sans-serif;
-    background-color: lightseagreen
+    background: url("https://www.mykhel.com/img/2017/11/premier-league-logo-07-1510035706.jpg")
   }
   
   .wrapper {
@@ -72,6 +72,10 @@ body {
     margin: 5px;
   }
   html {
-    background-position: 100px 5px; 
+    background-position: 50px 5px; 
+  }
+  p{
+    font-size: 7vh;
+    color: green
   }
   
